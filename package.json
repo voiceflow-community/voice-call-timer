@@ -1,0 +1,22 @@
+{
+  "name": "voice-call-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["voiceflow", "twilio", "voice call", "call timer", "voice"],
+  "author": "Nicolas Arcay | NiKo | Voiceflow",
+  "license": "ISC",
+  "description": "A Node.js service that monitors Voiceflow voice calls and automatically ends them based on custom time limits.",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "twilio": "^5.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
