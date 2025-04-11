@@ -22,13 +22,14 @@ A Node.js service that monitors Voiceflow voice calls and automatically ends the
 ## Demo
 
 <div>
-  <a href="https://www.loom.com/share/e5718b79b219455e94ef9cb7472ec724">
-    <p>Voice Call Timer Demo 🎥 - Watch Video</p>
+  <a href="https://www.loom.com/share/3712f0e2fefb41df977927c43a3a27bd">
+    <p>Voice Call Timer Demo - Watch Video</p>
   </a>
-  <a href="https://www.loom.com/share/e5718b79b219455e94ef9cb7472ec724">
-    <img src="https://cdn.loom.com/sessions/thumbnails/e5718b79b219455e94ef9cb7472ec724-63df9fde1c68e0c4-full-play.gif" alt="Voice Call Timer Demo" width="300">
+  <a href="https://www.loom.com/share/3712f0e2fefb41df977927c43a3a27bd">
+    <img src="https://cdn.loom.com/sessions/thumbnails/3712f0e2fefb41df977927c43a3a27bd-f784f770f90e750f-full-play.gif" alt="Voice Call Timer Demo" width="300">
   </a>
 </div>
+
 
 ## Setup
 
