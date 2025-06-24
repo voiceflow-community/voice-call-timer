@@ -188,3 +188,5 @@ curl -X POST \
 ## License
 
 ISC
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_voice-call-timer&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_voice-call-timer)
